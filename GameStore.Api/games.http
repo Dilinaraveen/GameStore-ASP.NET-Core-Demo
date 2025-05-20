@@ -1,0 +1,32 @@
+GET http://localhost:5273
+
+###
+GET http://localhost:5273/games
+
+###
+GET http://localhost:5273/games/2
+
+###
+POST http://localhost:5273/games
+Content-Type: application/json
+
+{
+  "name": "Final Fantasy 2",
+  "genreId": 1,
+  "price": 26.95,
+  "releaseDate": "2011-11-18"
+}
+
+###
+PUT http://localhost:5273/games/1
+Content-Type: application/json
+
+{
+    "name": "Game 1 Updated",
+    "genre": "Action Updated",
+    "price": 59.99,
+    "releaseDate": "2025-01-01"
+}
+
+### 
+DELETE http://localhost:5273/games/3
