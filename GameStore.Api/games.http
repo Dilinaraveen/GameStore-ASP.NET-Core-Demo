@@ -11,19 +11,19 @@ POST http://localhost:5273/games
 Content-Type: application/json
 
 {
-  "name": "Final Fantasy 2",
+  "name": "GTA San Andreas",
   "genreId": 1,
   "price": 26.95,
   "releaseDate": "2011-11-18"
 }
 
 ###
-PUT http://localhost:5273/games/1
+PUT http://localhost:5273/games/2
 Content-Type: application/json
 
 {
-    "name": "Game 1 Updated",
-    "genre": "Action Updated",
+    "name": "GTA V",
+    "genreId": 1,
     "price": 59.99,
     "releaseDate": "2025-01-01"
 }

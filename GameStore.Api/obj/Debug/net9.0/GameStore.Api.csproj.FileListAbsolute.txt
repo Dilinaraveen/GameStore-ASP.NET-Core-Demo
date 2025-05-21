@@ -127,3 +127,4 @@ C:\Users\Dilinaraveen\Documents\Projects\GameStore\GameStore.Api\bin\Debug\net9.
 C:\Users\Dilinaraveen\Documents\Projects\GameStore\GameStore.Api\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\Dilinaraveen\Documents\Projects\GameStore\GameStore.Api\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\Dilinaraveen\Documents\Projects\GameStore\GameStore.Api\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Dilinaraveen\Documents\Projects\GameStore\GameStore.Api\obj\Debug\net9.0\GameStore.Api.sourcelink.json
